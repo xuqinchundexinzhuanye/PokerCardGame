@@ -1,0 +1,1 @@
+E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\PokerCardGame.exe
