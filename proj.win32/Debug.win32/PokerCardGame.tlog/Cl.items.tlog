@@ -1,0 +1,10 @@
+E:\cocos2dx_project\PokerCardGame\Classes\AppDelegate.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\AppDelegate.obj
+E:\cocos2dx_project\PokerCardGame\Classes\configs\loaders\LevelConfigLoader.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\LevelConfigLoader.obj
+E:\cocos2dx_project\PokerCardGame\Classes\controllers\CardController.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\CardController.obj
+E:\cocos2dx_project\PokerCardGame\Classes\HelloWorldScene.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\HelloWorldScene.obj
+E:\cocos2dx_project\PokerCardGame\Classes\managers\CardManager.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\CardManager.obj
+E:\cocos2dx_project\PokerCardGame\Classes\models\GameModel.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\GameModel.obj
+E:\cocos2dx_project\PokerCardGame\Classes\utils\CardRuleUtil.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\CardRuleUtil.obj
+E:\cocos2dx_project\PokerCardGame\Classes\views\CardView.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\CardView.obj
+E:\cocos2dx_project\PokerCardGame\Classes\views\GameView.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\GameView.obj
+E:\cocos2dx_project\PokerCardGame\proj.win32\main.cpp;E:\cocos2dx_project\PokerCardGame\proj.win32\Debug.win32\main.obj
